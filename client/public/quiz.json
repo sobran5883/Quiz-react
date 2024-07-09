@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is React.js mainly used for?",
+        "options": [
+            "Database management",
+            "Server-side scripting",
+            "Building user interfaces",
+            "Machine learning"
+        ],
+        "answer": "Building user interfaces"
+    },
+    {
+        "id": "02",
+        "question" : "Which method is used to update the state in a React component?",
+        "options": [
+            "updateState()",
+            "setState()",
+            "changeState()",
+            "modifyState()"
+        ],
+        "answer": "setState()"
+    },
+    {
+        "id": "03",
+        "question" : "What is the primary purpose of props in React?",
+        "options": [
+            "To initialize state",
+            "To pass data to components",
+            "To update the DOM",
+            "To handle events"
+        ],
+        "answer": "To pass data to components"
+    },
+    {
+        "id": "04",
+        "question" : "What lifecycle method is invoked after a component is mounted?",
+        "options": [
+            "componentWillMount",
+            "componentDidMount",
+            "componentWillUpdate",
+            "componentDidUpdate"
+        ],
+        "answer": "componentDidMount"
+    },
+    {
+        "id": "05",
+        "question" : "Which of the following hooks is used to manage side effects in functional components?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useContext",
+            "useReducer"
+        ],
+        "answer": "useEffect"
+    },
+    {
+        "id": "06",
+        "question" : "What is the name of the tool used for taking a snapshot of React components?",
+        "options": [
+            "Jest",
+            "Enzyme",
+            "Snapshot",
+            "React Developer Tools"
+        ],
+        "answer": "Jest"
+    },
+    {
+        "id": "07",
+        "question" : "What does JSX stand for?",
+        "options": [
+            "JavaScript XML",
+            "Java Syntax Extension",
+            "JavaScript Extension",
+            "JavaScript XHTML"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": "08",
+        "question" : "How can you handle events in React?",
+        "options": [
+            "Using HTML event handlers",
+            "Using JavaScript event handlers",
+            "Using React event handlers",
+            "Using CSS event handlers"
+        ],
+        "answer": "Using React event handlers"
+    },
+    {
+        "id": "09",
+        "question" : "Which command is used to run tests in a React application created with create-react-app?",
+        "options": [
+            "npm start",
+            "npm build",
+            "npm test",
+            "npm run"
+        ],
+        "answer": "npm test"
+    },
+    {
+        "id": "10",
+        "question" : "What is the correct way to pass a parameter to an event handler or callback in React?",
+        "options": [
+            "handler()",
+            "handler(param)",
+            "handler = {param}",
+            "handler({param})"
+        ],
+        "answer": "handler(param)"
+    }
+]
